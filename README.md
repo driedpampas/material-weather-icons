@@ -9,7 +9,7 @@ Forked from [M00NJ/material-weather-icons](https://github.com/M00NJ/material-wea
 
 [//]: # "### Icons"
 
-[//]: # "<img src="icon_overview.svg">"
+[//]: # "<img src=\"icon_overview.svg\">"
 
 ### License
 
